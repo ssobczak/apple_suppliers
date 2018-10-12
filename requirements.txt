@@ -1,5 +1,6 @@
 pandas
-camelot
+camelot-py
 gmaps
 jupyter
 googlemaps
+opencv-python
